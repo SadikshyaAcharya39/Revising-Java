@@ -109,10 +109,10 @@ public class Basics {
         System.out.println("|Sadikshya|");
         System.out.println("|---------|");
 
-        System.out.println("*     *        *          ******     *       *");
-        System.out.println("*     *      *  *         *    *      *     *");
-        System.out.println("*******     ******        ******        * *");
-        System.out.println("*     *    *      *       *  *          *");
-        System.out.println("*     *   *        *      *    *      *");
+        System.out.println("*     *        *          ******      *      *");
+        System.out.println("*     *      *  *         *    *       *    *");
+        System.out.println("*******     ******        ******        *  *");
+        System.out.println("*     *    *      *       *  *           *");
+        System.out.println("*     *   *        *      *    *        *");
     }
 }
